@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\bin\Debug\netcoreapp3.1\UC1LFirstName.exe
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\bin\Debug\netcoreapp3.1\UC1LFirstName.deps.json
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\bin\Debug\netcoreapp3.1\UC1LFirstName.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\bin\Debug\netcoreapp3.1\UC1LFirstName.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\bin\Debug\netcoreapp3.1\UC1LFirstName.dll
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\bin\Debug\netcoreapp3.1\UC1LFirstName.pdb
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\obj\Debug\netcoreapp3.1\UC1LFirstName.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\obj\Debug\netcoreapp3.1\UC1LFirstName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\obj\Debug\netcoreapp3.1\UC1LFirstName.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\obj\Debug\netcoreapp3.1\UC1LFirstName.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\obj\Debug\netcoreapp3.1\UC1LFirstName.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\obj\Debug\netcoreapp3.1\UC1LFirstName.dll
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\obj\Debug\netcoreapp3.1\UC1LFirstName.pdb
+C:\Users\91807\Desktop\Batch67\UC1LFirstName\obj\Debug\netcoreapp3.1\UC1LFirstName.genruntimeconfig.cache
