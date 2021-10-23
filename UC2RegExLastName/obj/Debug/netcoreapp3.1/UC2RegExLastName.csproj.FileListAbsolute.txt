@@ -1,0 +1,13 @@
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\bin\Debug\netcoreapp3.1\UC2RegExLastName.exe
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\bin\Debug\netcoreapp3.1\UC2RegExLastName.deps.json
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\bin\Debug\netcoreapp3.1\UC2RegExLastName.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\bin\Debug\netcoreapp3.1\UC2RegExLastName.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\bin\Debug\netcoreapp3.1\UC2RegExLastName.dll
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\bin\Debug\netcoreapp3.1\UC2RegExLastName.pdb
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\obj\Debug\netcoreapp3.1\UC2RegExLastName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\obj\Debug\netcoreapp3.1\UC2RegExLastName.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\obj\Debug\netcoreapp3.1\UC2RegExLastName.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\obj\Debug\netcoreapp3.1\UC2RegExLastName.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\obj\Debug\netcoreapp3.1\UC2RegExLastName.dll
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\obj\Debug\netcoreapp3.1\UC2RegExLastName.pdb
+C:\Users\91807\Desktop\Batch67\UC2RegExLastName\obj\Debug\netcoreapp3.1\UC2RegExLastName.genruntimeconfig.cache
